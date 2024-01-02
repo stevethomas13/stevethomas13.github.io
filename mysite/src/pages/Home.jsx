@@ -1,11 +1,15 @@
 import React  from 'react';
+import About  from './About'
+import Projects from './Projects';
+import Introduction from './Introduction'
+
 export default function Home() {
 
     return (
         <div>
-            {/* <h2>Random Cocktail of the Day</h2> */}
-            <p>Hello world</p>
-            {/* <Description/> */}
+            <Introduction />
+            <Projects />
+            <About />
         </div>
     );
 }
