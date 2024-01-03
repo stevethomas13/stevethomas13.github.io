@@ -15,8 +15,9 @@ function myNavbar() {
                         <Nav className="me-auto">
                             <Nav.Link href="#projects">Projects</Nav.Link>
                             <Nav.Link href="#experience">Experience</Nav.Link>
-                            {/* Education should always be last because of scroll css */}
                             <Nav.Link href="#education">Education</Nav.Link>
+                            {/* Contact should always be last because of scroll css */}
+                            <Nav.Link href="#contact">Contact</Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>
