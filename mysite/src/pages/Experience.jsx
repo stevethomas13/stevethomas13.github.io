@@ -14,15 +14,15 @@ export default function About() {
                 </Row>
                 <Row className="justify-content-md-center">
                     <Col xs lg="6">
-                        <p><b>Musgrave Group</b></p>
+                        <p><b>Supply Chain Project Manager, Intern @ Musgrave Group</b></p>
                         <p>
-                            In my role as a Supply Chain Project Manager at Musgrave, I successfully led the Recoup Process at the CDC Blanchardstown depot, achieving an impressive jump in recoup rates from 35% to 83%. This not only resulted in substantial annual savings but also showcased my ability to excel under budget constraints and tight deadlines.
+                        In my role as a Supply Chain Project Manager at Musgrave, I successfully led the Recoup Process at the CDC Blanchardstown depot, achieving an impressive jump in recoup rates from 35% to 83%. This not only resulted in substantial annual savings but also showcased my ability to excel under budget constraints and tight deadlines.
                         </p>
-                        <p><b>Formula Trinity</b></p>
+                        <p><b>Business Team @ Formula Trinity</b></p>
                         <p>
                             At Formula Trinity, my focus on financial management and strategic sponsorships honed my skills in budgeting, financial planning, and relationship building.
                         </p>
-                        <p><b>ProtexAI</b></p>
+                        <p><b>Junior Consultant @ ISCG for ProtexAI</b></p>
                         <p>
                         As a junior consultant with the Irish Student Consulting Group, I collaborated with ProtexAI, contributing to their online visibility and market reach through effective SEO strategies.
                         </p>
