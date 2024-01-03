@@ -11,8 +11,8 @@ html {
   scroll-behavior: smooth;
  }
 
-#about {
-  padding-bottom: 25%;
+#contact {
+  padding-bottom: 55%;
  }
 
 @media (prefers-reduced-motion: no-preference) {
