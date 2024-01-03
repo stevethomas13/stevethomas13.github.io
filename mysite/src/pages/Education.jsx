@@ -14,11 +14,15 @@ export default function About() {
                 </Row>
                 <Row className="justify-content-md-center">
                     <Col xs lg="6">
-                        <p>
-                            I'm a Computer Science and Business student at Trinity, currently delving into the dynamic intersection of technology and business. In my second year, I completed a NFQ Level 7 course in Innovation and Entrepreneurship, fueling my passion for creative problem-solving and strategic thinking.
-                        </p>
+                        <p><b>Computer Science and Business @ Trinity College, 2021-2025</b></p>
+                        <p>Current Grade: 1.1 (4.0 GPA) </p>
+                        <p> Societies and clubs: DU Computer Science Society, Formula Trinity, Irish Student Consulting Group, Trinity Student Managed Fund, UDOMA </p>
+                        <p>Positions held: Finance and Sponsorship Team - Formula Trinity, Global Ambassador, Lab Demonstrator for CSU22014 - Systems Programming, Junior Consultant - ISCG, OCM - Udoma Council </p>
+                        <p><b>Innovation and Entrepreneurship @ Trinity College, 2022-2023 </b></p>
+                        <p>Final Grade: 2.1 (3.7 GPA) </p>
                     </Col>
                 </Row>
+                
 
                 
 
